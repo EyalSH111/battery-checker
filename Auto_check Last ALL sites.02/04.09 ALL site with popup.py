@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Battery Sites Monitor — continuous + beep + popup + STOP file
 
-USAGE / STOP:
-- Runs forever, every settings.interval_sec seconds (5 min default).
-- To STOP gracefully: create an empty file named 'STOP' next to this script/EXE.
-  The loop checks for it after each cycle and also once per second during the wait.
-
-Config:
-- Put config.json next to this script/EXE.
-"""
 
 import os
 import sys
