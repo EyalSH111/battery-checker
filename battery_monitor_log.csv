@@ -1,0 +1,1100 @@
+timestamp,site,connected,total,expected_total,status,note
+2025-08-11 18:52:17,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-11 18:53:00,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:01:21,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:01:49,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:02:03,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:02:17,Yahel,92,92,92,OK,All connected
+2025-08-31 11:02:30,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:07:44,Warburg3,,,66,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:08:04,Zikim,,,82,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:08:24,Warburg2,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:08:44,Yahel,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:09:04,Tidhar,,,134,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:14:24,Warburg3,,,66,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:14:44,Zikim,,,82,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:15:05,Warburg2,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:15:25,Yahel,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:15:46,Tidhar,,,134,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 11:19:09,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:19:27,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:19:40,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:19:54,Yahel,92,92,92,OK,All connected
+2025-08-31 11:20:08,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:20:21,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 11:20:35,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 11:20:48,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 11:21:02,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 11:21:16,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 11:21:30,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 11:21:44,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 11:21:58,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 11:22:12,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 11:22:26,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:22:40,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 11:22:54,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:23:07,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:23:20,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 11:23:34,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 11:28:48,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:29:01,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:29:14,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:29:28,Yahel,92,92,92,OK,All connected
+2025-08-31 11:29:41,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:29:55,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 11:30:08,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 11:30:22,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 11:30:35,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 11:30:49,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 11:31:02,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 11:31:16,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 11:31:30,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 11:31:43,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 11:31:57,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:32:11,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 11:32:25,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:32:38,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:32:51,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 11:33:05,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 11:38:18,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:38:32,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:38:46,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:39:00,Yahel,92,92,92,OK,All connected
+2025-08-31 11:39:15,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:39:29,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 11:39:43,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 11:39:57,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 11:40:12,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 11:40:26,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 11:40:40,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 11:40:55,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 11:41:09,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 11:41:23,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 11:41:37,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:41:51,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 11:42:05,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:42:20,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:42:34,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 11:42:48,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 11:48:02,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:48:16,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:48:31,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:48:45,Yahel,92,92,92,OK,All connected
+2025-08-31 11:49:00,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:49:14,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 11:49:28,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 11:49:43,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 11:49:57,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 11:50:11,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 11:50:26,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 11:50:40,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 11:50:55,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 11:51:09,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 11:51:23,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:51:37,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 11:51:52,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:52:06,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 11:52:20,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 11:52:35,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 11:57:49,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 11:58:03,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 11:58:17,Warburg2,92,92,92,OK,All connected
+2025-08-31 11:58:32,Yahel,92,92,92,OK,All connected
+2025-08-31 11:58:46,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 11:59:01,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 11:59:15,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 11:59:30,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 11:59:44,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 11:59:58,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:00:13,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:00:27,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:00:42,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:00:56,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:01:10,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:01:25,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:01:39,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:01:54,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:02:09,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:02:24,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:07:40,Warburg3,92,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:07:55,Zikim,92,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:08:09,Warburg2,92,92,92,OK,All connected
+2025-08-31 12:08:24,Yahel,92,92,92,OK,All connected
+2025-08-31 12:08:38,Tidhar,92,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:08:53,AmHahita,92,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:09:08,BeitAmpha,92,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:09:22,EinYahav,92,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:09:37,Gadot,92,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:09:51,GesherWest,92,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:10:06,Holit,92,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:10:21,Gvaram,92,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:10:35,Holata,92,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:10:50,MaaleGilboa2,92,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:11:04,KfarRupin,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:11:19,Kisufim,92,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:11:33,MaaleGilboa1,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:11:48,Meirav,92,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:12:02,Metronit,92,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:12:17,Metronit1,92,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:17:31,Warburg3,46,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:17:46,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:18:01,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 12:18:17,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 12:18:31,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:18:47,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:19:01,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:19:16,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:19:30,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:19:45,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:19:59,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:20:14,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:20:29,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:20:43,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:20:58,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:21:12,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:21:27,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:21:41,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:21:56,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:22:10,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:27:25,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:27:38,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:27:52,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 12:28:06,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 12:28:20,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:28:33,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:28:47,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:29:01,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:29:15,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:29:29,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:29:43,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:29:57,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:30:10,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:30:24,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:30:38,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:30:52,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:31:06,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:31:20,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:31:35,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:31:50,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:37:04,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:37:18,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:37:33,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 12:37:47,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 12:38:02,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:38:17,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:38:31,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:38:46,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:39:01,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:39:15,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:39:30,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:39:45,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:40:00,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:40:14,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:40:29,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:40:44,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:40:58,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:41:13,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:41:28,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:41:43,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:46:57,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:47:12,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:47:27,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 12:47:41,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 12:47:56,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:48:11,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:48:25,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:48:40,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:48:55,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:49:10,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:49:25,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:49:39,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:49:54,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 12:50:09,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 12:50:24,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:50:39,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 12:50:54,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:51:08,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 12:51:23,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 12:51:38,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 12:56:52,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 12:57:07,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 12:57:21,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 12:57:36,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 12:57:51,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 12:58:05,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 12:58:21,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 12:58:36,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 12:58:51,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 12:59:05,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 12:59:20,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 12:59:35,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 12:59:50,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 13:00:05,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 13:00:20,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:00:34,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 13:00:50,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:01:04,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:01:19,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 13:01:34,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 13:06:49,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:07:03,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:07:18,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:07:33,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:07:47,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:08:02,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:08:18,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 13:08:32,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 13:08:47,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 13:09:02,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 13:09:16,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 13:09:32,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 13:09:47,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 13:10:02,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 13:10:17,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:10:33,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 13:10:47,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:11:03,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:11:17,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 13:11:32,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 13:12:12,Warburg3,,,66,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:13:07,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:13:22,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:13:29,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:13:36,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:13:43,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:13:50,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:13:58,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 13:14:05,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 13:14:12,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 13:14:19,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 13:14:26,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 13:14:33,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 13:14:40,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 13:14:48,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 13:14:56,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:15:04,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 13:15:11,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:15:19,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:15:27,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 13:15:35,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 13:20:42,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:20:49,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:20:56,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:21:04,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:21:10,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:21:17,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:21:24,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 13:21:31,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 13:21:39,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 13:21:45,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 13:21:53,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 13:21:59,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 13:22:07,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 13:22:14,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 13:22:21,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:22:28,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 13:22:35,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:22:42,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:22:49,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
+2025-08-31 13:22:56,Metronit1,0,92,4,CHECK,Total mismatch (expected 4)
+2025-08-31 13:27:37,Warburg3,,,66,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:27:57,Zikim,,,82,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:28:17,Warburg2,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:28:38,Yahel,,,92,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:28:58,Tidhar,,,134,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:27:37,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:29:18,AmHahita,,,2,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:29:38,BeitAmpha,,,3,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:29:58,EinYahav,,,80,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:30:19,Gadot,,,121,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:29:19,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:30:39,GesherWest,,,43,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:30:59,Holit,,,30,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:31:19,Gvaram,,,75,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:31:39,Holata,,,95,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:32:00,MaaleGilboa2,,,6,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:30:56,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:32:20,KfarRupin,,,8,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:32:40,Kisufim,,,79,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:33:00,MaaleGilboa1,,,8,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:33:21,Meirav,,,8,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:33:41,Metronit,,,1,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:32:32,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:34:01,Metronit1,,,4,ERROR,"Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x127a8a3+63283]
+	GetHandleVerifier [0x0x127a8e4+63348]
+	(No symbol) [0x0x10b3e43]
+	(No symbol) [0x0x10fc8de]
+	(No symbol) [0x0x10fcc7b]
+	(No symbol) [0x0x1144ef2]
+	(No symbol) [0x0x1121464]
+	(No symbol) [0x0x114271a]
+	(No symbol) [0x0x1121216]
+	(No symbol) [0x0x10f0855]
+	(No symbol) [0x0x10f16f4]
+	GetHandleVerifier [0x0x14ebb43+2623955]
+	GetHandleVerifier [0x0x14e6daa+2604090]
+	GetHandleVerifier [0x0x12a069a+218410]
+	GetHandleVerifier [0x0x1290ed8+154984]
+	GetHandleVerifier [0x0x129742d+180925]
+	GetHandleVerifier [0x0x12822b8+94536]
+	GetHandleVerifier [0x0x1282442+94930]
+	GetHandleVerifier [0x0x126d5ea+9338]
+	BaseThreadInitThunk [0x0x769f5d49+25]
+	RtlInitializeExceptionChain [0x0x772ed6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x772ed661+561]
+"
+2025-08-31 13:34:09,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:35:45,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:37:21,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 13:40:40,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:40:58,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:41:13,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:41:28,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:41:42,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:41:57,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:43:15,Warburg3,0,66,66,WARN,Some disconnected
+2025-08-31 13:44:32,Zikim,82,82,82,OK,All connected
+2025-08-31 13:45:43,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:46:54,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:48:02,Tidhar,133,134,134,WARN,Some disconnected
+2025-08-31 13:52:34,Warburg3,0,92,66,CHECK,Total mismatch (expected 66)
+2025-08-31 13:52:51,Zikim,0,92,82,CHECK,Total mismatch (expected 82)
+2025-08-31 13:52:59,Warburg2,0,92,92,WARN,Some disconnected
+2025-08-31 13:53:08,Yahel,0,92,92,WARN,Some disconnected
+2025-08-31 13:53:17,Tidhar,0,92,134,CHECK,Total mismatch (expected 134)
+2025-08-31 13:53:26,AmHahita,0,92,2,CHECK,Total mismatch (expected 2)
+2025-08-31 13:53:34,BeitAmpha,0,92,3,CHECK,Total mismatch (expected 3)
+2025-08-31 13:53:42,EinYahav,0,92,80,CHECK,Total mismatch (expected 80)
+2025-08-31 13:53:50,Gadot,0,92,121,CHECK,Total mismatch (expected 121)
+2025-08-31 13:53:59,GesherWest,0,92,43,CHECK,Total mismatch (expected 43)
+2025-08-31 13:54:07,Holit,0,92,30,CHECK,Total mismatch (expected 30)
+2025-08-31 13:54:16,Gvaram,0,92,75,CHECK,Total mismatch (expected 75)
+2025-08-31 13:54:25,Holata,0,92,95,CHECK,Total mismatch (expected 95)
+2025-08-31 13:54:33,MaaleGilboa2,0,92,6,CHECK,Total mismatch (expected 6)
+2025-08-31 13:54:42,KfarRupin,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:54:51,Kisufim,0,92,79,CHECK,Total mismatch (expected 79)
+2025-08-31 13:55:00,MaaleGilboa1,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:55:09,Meirav,0,92,8,CHECK,Total mismatch (expected 8)
+2025-08-31 13:55:18,Metronit,0,92,1,CHECK,Total mismatch (expected 1)
