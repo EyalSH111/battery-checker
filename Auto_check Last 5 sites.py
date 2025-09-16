@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Battery sites monitor — SIMPLE
-- Reads config.json (username/password/pin/url + sites with labels + expected_total)
-- Logs in with straightforward selectors
-- For each site: finds ONLY the batteries "N/M" inside that site's card
-- Prints: "<Site>: N/M"
-- Single pass, then exit
-"""
+
 
 import os
 import json
